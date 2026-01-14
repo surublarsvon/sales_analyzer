@@ -144,13 +144,13 @@ Product_Category	Строка	Категория товара
 
         summary_YYYYMMDD_HHMMSS.txt - текстовый сводный отчет
 ```
-main.py              Новиков Михаил Сергеевич: 437949
+main.py              Новиков Михаил Сергеевич: 437949 (поток 1.1)
 
-data_loader.py       Долгушин Матвей: 503794
+data_loader.py       Долгушин Матвей: 503794 (поток 1.2)
 
-analyzer.py          Марков Макар Денисович: 501731
+analyzer.py          Марков Макар Денисович: 501731 (поток 1.2)
 
-visualizer.py        Любачева Анастасия: 504696
+visualizer.py        Любачева Анастасия: 504696 (поток 1.1)
 
   ссылка на видео презентацию: https://drive.google.com/drive/folders/1PoVSR7B1TiJ8NHwahykBRjirkqse_uvh?usp=sharing
 
