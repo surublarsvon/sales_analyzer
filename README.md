@@ -152,7 +152,7 @@ analyzer.py          Марков Макар Денисович: 501731
 
 visualizer.py        Любачева Анастасия: 504696
 
-  
+  ссылка на видео презентацию: https://drive.google.com/drive/folders/1PoVSR7B1TiJ8NHwahykBRjirkqse_uvh?usp=sharing
 
 
 
